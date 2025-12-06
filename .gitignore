@@ -164,3 +164,7 @@ cython_debug/
 # original
 .chroma/
 logs/
+
+# Project data (kept locally)
+data/*
+!data/.gitkeep
